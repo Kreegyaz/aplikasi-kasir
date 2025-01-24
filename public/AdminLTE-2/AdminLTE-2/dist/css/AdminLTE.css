@@ -168,7 +168,7 @@ h6,
 }
 /* General Links */
 a {
-  color: #3c8dbc;
+  color: #000000;
 }
 a:hover,
 a:active,
@@ -1180,7 +1180,7 @@ a:focus {
   clear: both;
 }
 .navbar-nav > .user-menu > .dropdown-menu > .user-footer .btn-default {
-  color: #666666;
+  color: #000000;
 }
 @media (max-width: 991px) {
   .navbar-nav > .user-menu > .dropdown-menu > .user-footer .btn-default:hover {

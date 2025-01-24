@@ -1,4 +1,4 @@
-<header class="main-header">
+<header style="background-color:#c5c6c7" class="main-header">
     <!-- Logo -->
     <a href="index.html" class="logo">
         <!-- mini logo for sidebar mini 50x50 pixels -->
@@ -32,13 +32,13 @@
                 </p>
                 </li>
                 <!-- Menu Footer-->
-                <li class="user-footer">
+                <li class="user-footer" style="background-color:#4ca5d8">
                 <div class="pull-left">
-                    <a href="#" class="btn btn-default btn-flat">Profil</a>
+                    <a href="#" class="btn btn-default btn-flat" style="background-color:rgb(225, 238, 247)">Profil</a>
                 </div>
                 <div class="pull-right">
-                    <a href="#" class="btn btn-default btn-flat" 
-                        onclick="$('#logout-form').submit()">Keluar</a>
+                    <a href="#" class="btn btn-default btn-flat" style="background-color:rgb(225, 238, 247)" 
+                        onclick="$('#logout-form').submit()">Keluar</style></a>
                 </div>
                 </li>
             </ul>
